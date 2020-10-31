@@ -21,7 +21,5 @@ run app.py.
 
 **output:**
 ![alt text](https://github.com/phani-1995/ElasticSearch_Autocorrect/blob/main/es_autocrrt_imges/Screenshot%20from%202020-10-31%2013-20-01.png)
-
-
-
+![alt text](https://github.com/phani-1995/ElasticSearch_Autocorrect/blob/main/es_autocrrt_imges/Screenshot%20from%202020-10-31%2013-20-21.png)
 
