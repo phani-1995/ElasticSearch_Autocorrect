@@ -20,7 +20,8 @@ and it will collect the result and display the suggestion on the screen.
 run app.py.
 
 **output:**
-![alt text](es_autocrrt_imges/Screenshot from 2020-10-31 13-20-01.png)
+![alt text](https://github.com/phani-1995//ElasticSearch_Autocorrect/es_autocrrt_imges/Screenshot from 2020-10-31 13-20-01.png?raw=true)
+
 
 
 
